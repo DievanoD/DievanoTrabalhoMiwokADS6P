@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4A312A</color>
+    <color name="colorPrimaryDark">#2F1D1A</color>
+
+    <color name="categoria_numeros">#FD8E09</color>
+    <color name="categoria_familia">#379237</color>
+    <color name="categoria_cores">#8800A0</color>
+    <color name="categoria_frases">#16AFCA</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="palida">#FFF7DA</color>
+</resources>
